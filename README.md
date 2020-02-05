@@ -1,0 +1,2 @@
+# practica01
+Esta práctica se puede realizar por grupos de 2 o 3 personas como máximo. Consistirá en darse de alta en las herramientas Trello, GitHub y Slack (que posteriormente usaremos en las prácticas) al mismo tiempo que se identifican posibles alternativas a cada una de ellas y se describen ventajas e inconvenientes. Finalmente, se realizará un primer proyecto, muy básico con Undum; este pequeño framework será también usado posteriormente en las prácticas.
