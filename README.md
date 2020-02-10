@@ -9,8 +9,7 @@ Twist ofrece una interfaz limpia y de fácil aprendizaje y la versión gratuita 
 
 En la versión gratuita, los usuarios solo pueden realizar búsquedas en el historial del último mes, una limitación que podría afectar a la escalabilidad. Twist tampoco ofrece videoconferencias ni gestión de documentos, por lo que es más adecuada para pequeñas y medianas empresas que ya cuenten con herramientas para estos fines.
 
-Link de descarga: [blink].
-[blink]: https://get.twist.help/hc/es
+Link de descarga: https://get.twist.help/hc/es
 
 ### Fleep
 Puede que Fleep tenga un nombre divertido, pero se trata de una herramienta de comunicación de lo más seria. De hecho, la empresa estonia encargada de su desarrollo afirma que su producto es “la forma perfecta de comunicarse”.
@@ -21,5 +20,4 @@ Y esa no es la única manera en la que Fleep abre líneas de comunicación. Flee
 
 La versión gratuita incluye conversaciones ilimitadas e historial completo de mensajes. El equipo de Fleep está trabajando en una herramienta de gestión de tareas personales integrada que estará disponible para la versión de pago.
 
-Link de descarga: [fleep].
-[fleep]: https://fleep.io/downloads
+Link de descarga: https://fleep.io/downloads
