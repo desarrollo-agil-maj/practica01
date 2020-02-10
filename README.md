@@ -45,8 +45,8 @@ En cuanto las integraciones, Kanbanize viene con integraciones por defecto con h
 En resumen, esta es una plataforma libre de errores que es fácil de usar y ofrece una gran visibilidad. De hecho, el único inconveniente que podemos encontrar con esta herramienta es que no está disponible sin conexión.
 
 
-#Alternativas a GitHub:
-##Bitbucket
+# Alternativas a GitHub:
+## Bitbucket
 
 Bitbucket se trata de otra plataforma muy popular en la que individuos y organizaciones tienden a almacenar sus repositorios basados en código libre. Permite tener repositorios públicos, como así también privados ilimitados, lo cual atrae la atención de los desarrolladores que acostumbran a necesitar espacio de almacenamiento para almacenar sus archivos en la nube. Una de las funciones más destacadas de Bitbucket es el hecho de permitir a los usuarios intercambiar o enviar achivos a otros usuarios a través de la misma plataforma.
 
