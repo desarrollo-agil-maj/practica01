@@ -57,7 +57,7 @@ Por medio de Bitbucket también podremos alojar una página web gratis a través
 También podremos utilizar dominios propios para tener nuestra página web personalizada basada en Bitbucket. También podremos formar equipos dentro de esta plataforma, con repositorios públicos o privados, siempre y cuando los equipos no superen los 5 usuarios. Si deseamos tener equipos de trabajo con usuarios ilimitados deberemos mantener todos nuestros proyectos completamente públicos.
 
 
-##SourceForge
+## SourceForge
 SourceForge es otra reconocida página web en el que desarrolladores acostumbran a publicar sus proyectos basados en diferentes plataformas y compatibles con los más variados sistemas operativos, como Linux, Windows y Mac. Una de las particularidades de SourceForge es que permite únicamente crear proyectos de código abierto con nombre único, por lo que deberemos ser originales al momento de publicar nuestras creaciones. SourceForge también nos permite crear una página web con subdominio (proyecto.sourceforge.net), por lo que le resultará más práctico al usuario que busca mantener una organización de sus trabajos, y de igual manera mostrar al público todos los proyectos que ha llevado a cabo.
 
 Debemos señalar también que los servidores de SourceForge tienen compatibilidad con una gran cantidad de lenguajes de programación, como por ejemplo PHP, Perl, Ruby, Python, lo que le permitirá al usuario crear y publicar sus proyectos sin demasiadas limitaciones dentro de esta plataforma. También podremos utilizar un cliente SFTP para poder cargar nuestros archivos a los servidores de SourceForge.
