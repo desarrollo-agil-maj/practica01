@@ -68,3 +68,6 @@ Debemos señalar también que los servidores de SourceForge tienen compatibilida
 
 ### Slack
 ![](imagenes/espacioTrabajoSlack.PNG)
+
+### Git
+![](imagenes/pantallaPrincipalGit.PNG)
